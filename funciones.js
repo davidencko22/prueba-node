@@ -1,1 +1,2 @@
-console.log(1);
+var mensaje="hola gato";
+console.log(mensaje)
